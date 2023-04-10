@@ -10,3 +10,4 @@ __pycache__
 *.ttf
 *.woff
 *.woff2
+*venv
